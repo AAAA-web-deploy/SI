@@ -1,0 +1,53 @@
+{
+  "project": "Stupid Intelligence — SI ape site",
+  "live_path": "https://aaaa-web-deploy.github.io/SI/",
+  "ca_status": "Blank — set window.SI_CONFIG.CA in index.html before launch",
+  "characters": {
+    "sit": {
+      "webp_path": "media/sit.webp",
+      "original_dimensions": [668, 820],
+      "png_path": "assets/characters/sit.png"
+    },
+    "confused": {
+      "webp_path": "media/confused.webp",
+      "original_dimensions": [471, 820],
+      "png_path": "assets/characters/confused.png"
+    },
+    "books": {
+      "webp_path": "media/books.webp",
+      "original_dimensions": [618, 820],
+      "png_path": "assets/characters/books.png"
+    },
+    "lost": {
+      "webp_path": "media/lost.webp",
+      "original_dimensions": [550, 820],
+      "png_path": "assets/characters/lost.png"
+    },
+    "idea": {
+      "webp_path": "media/idea.webp",
+      "original_dimensions": [820, 807],
+      "png_path": "assets/characters/idea.png"
+    },
+    "vr": {
+      "webp_path": "media/vr.webp",
+      "original_dimensions": [685, 820],
+      "png_path": "assets/characters/vr.png"
+    },
+    "sleep": {
+      "webp_path": "media/sleep.webp",
+      "original_dimensions": [743, 820],
+      "png_path": "assets/characters/sleep.png"
+    }
+  },
+  "assets": [
+    "assets/logo.png",
+    "assets/logo-512.png",
+    "assets/logo-256.png",
+    "assets/logo-180.png",
+    "assets/logo-64.png",
+    "assets/logo-32.png",
+    "assets/banner-3x1.jpg",
+    "assets/social-preview.jpg",
+    "assets/approved-character-reference.png"
+  ]
+}
